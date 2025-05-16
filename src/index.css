@@ -1,0 +1,72 @@
+html, body{
+    margin: 0;
+    padding: 0;
+}
+
+
+.header-main{
+    display:flex;
+    justify-content: center;
+    background-color: #F55A5A;
+    padding-block:1rem;
+}
+
+.header-p-styling{
+   font-size: 1.2rem ;
+   padding-left: 1.2rem;
+   color:white;
+}
+
+i.fa-solid.fa-earth-asia {
+    padding-top: 0.8rem;
+    font-size: 1.6rem;
+    color:white;
+}
+
+.main-container{
+    padding:2rem 3rem;
+}
+
+.article-items{
+    display:flex;
+    padding: 2rem;
+}
+
+.article-main-img{
+    width:250px;
+    height: 300px;
+    border-radius: 10px; /* Adjust px for more/less rounding */
+}
+
+.article-location{
+   padding: 2rem 20rem 1rem 4rem;
+  
+}
+
+.article-location a{
+    padding-left : 1rem;
+    color: darkgray;
+   
+ }
+
+.article-location i{
+    padding-right: 0.6rem;
+}
+
+.date-styling{
+    font-weight:600;
+}
+
+h1{
+    font-size: 1.75rem;
+}
+
+.grey-line{
+    padding-left:3rem;
+    padding-right:23rem;
+}
+
+.link-toggle:hover{
+    color: rgba(255, 0, 0, 0.444);
+    transition: 0s;
+}
