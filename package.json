@@ -5,7 +5,7 @@
   "author": "",
   "type": "module",
   "main": "index.jsx",
-  "homepage": "https://github.com/singhaayush01/staticTravelWebsite",
+  "homepage": "https://singhaayush01.github.io/staticTravelWebsite/",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
